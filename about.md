@@ -3,7 +3,7 @@ layout: article
 titles: About
 ---
 
-<img src="./assets/images/liyuxin.png" height="auto" width="200" style="border-radius:3%; float: right">
+<img src="./assets/images/liyuxin.png" height="auto" width="150" style="border-radius:3%; float: right; margin-left: 10px; margin-bottom: 10px">
 
 I am Yuxin Li, currently a second-year Ph.D. candidate at School of International Studies at Renmin University of China, specializing in Chinese and Foreign Political Systems. I am under the supervision of [Professor Hong Lin](https://baike.baidu.com/item/%E6%9E%97%E7%BA%A2/1669301) of China Political Research Institute at Renmin University of China.
 
