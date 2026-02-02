@@ -3,7 +3,7 @@ layout: article
 titles: About
 ---
 
-<!-- <a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="https://www.xjtlu.edu.cn/wp-content/uploads/staffs_profile/663f53f506121758113e7fa17f366d38.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a> -->
+<img src="./assets/images/liyuxin.png" height="auto" width="200" style="border-radius:3%; float: right">
 
 I am Yuxin Li, currently a second-year Ph.D. candidate at School of International Studies at Renmin University of China, specializing in Chinese and Foreign Political Systems. I am under the supervision of [Professor Lin Hong](https://baike.baidu.com/item/%E6%9E%97%E7%BA%A2/1669301) of China Political Research Institute at Renmin University of China.
 
