@@ -31,6 +31,17 @@ You can find my CV here: Yuxin Li's Curriculum Vitae. If you are interested in m
 - **The First-Class Academic Scholarship** of Renmin University of China, Sep 2022 - May 2023, Sep 2023 - May 2024
 - **The Second-Class Academic Scholarship** of Renmin University of China, Sep 2024 - May 2025, Sep 2025 - Present
 
+## Skills
+
+### Language
+- **Mandarin Chinese** (Native)
+- **English** (Advanced) - TEM-8 (2023); TEM-4 (2021)
+- **Spanish** (A2)
+
+### Technology
+- **Microsoft Office Suite** (Proficiency)
+- **Statistical Analysis & Visualization**: R (Advanced)
+
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
     <h4>Contact</h4>
