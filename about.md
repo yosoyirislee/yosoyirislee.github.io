@@ -3,17 +3,17 @@ layout: article
 titles: About
 ---
 
-<img src="./assets/images/liyuxin.png" height="auto" width="200" style="border-radius:3%; float: right; margin-left: 20px; margin-bottom: 20px">
+<img src="./assets/images/liyuxin.png" height="250" width="auto" style="border-radius:3%; float: right; margin-left: 20px; margin-bottom: 20px">
 
 I am Yuxin Li, currently a second-year Ph.D. candidate at School of International Studies at Renmin University of China, specializing in Chinese and Foreign Political Systems. I am under the supervision of [Professor Hong Lin](https://baike.baidu.com/item/%E6%9E%97%E7%BA%A2/1669301) of China Political Research Institute at Renmin University of China.
 
 In 2025, I joined <a href="https://www.bytedance.com/zh/">ByteDance</a> as an intern on the TikTok Live-Streaming Ecological Governance team, authoring more than 10 in-depth public opinion reports on platform content trends, user sentiment, and regulatory developments across global markets.
 
-From 2021 to 2022, I served as a Research Assistant for two key initiatives. At the Peking University-Tencent Joint Initiative on the Belt and Road based at the School of International Studies, I supported foreign media monitoring, multilingual translation, and policy synthesis. I also worked with Baohe Safety Technology, an insurance risk management consultancy, where I contributed to real-time media tracking and geopolitical risk analysis.
+From 2021 to 2022, I served as a Research Assistant for two key initiatives. At the <a href="https://www.sis.pku.edu.cn/">Peking University-Tencent Joint Initiative on the Belt and Road</a> based at the School of International Studies, I supported foreign media monitoring, multilingual translation, and policy synthesis. I also worked with Baohe Safety Technology, an insurance risk management consultancy, where I contributed to real-time media tracking and geopolitical risk analysis.
 
 My research interests include **Populism,International norms,and the Politics of East Asia.**
 
-You can find my CV here: <a href="./assets/cv.pdf">Yuxin Li's Curriculum Vitae</a>. If you are interested in my work, please feel free to drop me an email.
+You can find my CV here: <a href="./assets/CV.pdf">Yuxin Li's Curriculum Vitae</a>. If you are interested in my work, please feel free to drop me an email.
 
 ## Education
 - **Ph.D. Candidate** in Chinese and Foreign Political Systems, Renmin University of China, 2024-Present
